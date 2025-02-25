@@ -46,6 +46,14 @@ Além disso, estou desenvolvendo soluções integradas utilizando APIs para faci
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🤖🧠🇦🇮👾+🤖🧠🇦🇮👾+🤖🧠🇦🇮;" />
 </h1>
 
-
-![Snake animation](https://github.com/vpsilvaa/vpsilvaa/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/vpsilvaa/vpsilvaa/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/vpsilvaa/vpsilvaa/blob/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
