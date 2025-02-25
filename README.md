@@ -57,3 +57,4 @@ Além disso, estou desenvolvendo soluções integradas utilizando APIs para faci
   />
 </picture>
 
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
