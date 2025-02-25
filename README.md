@@ -57,4 +57,4 @@ Além disso, estou desenvolvendo soluções integradas utilizando APIs para faci
   />
 </picture>
 
-![snake gif](https://github.com/vpsilvaa/vpsilvaa/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/vpsilvaa/vpsilvaa/blob/output/github-contribution-grid-snake.svg) -->
