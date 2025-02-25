@@ -9,7 +9,7 @@ Além disso, estou desenvolvendo soluções integradas utilizando APIs para faci
 | [<img loading="lazy" src="https://github.com/vpsilvaa.png" width=115><br><sub>Vitor Pires</sub>](https://www.linkedin.com/in/vitorpires/) |
 | :---: |
 
-![GIF Animado](https://github.com/vpsilvaa/vpsilvaa/raw/main/fxvT.gif)
+<!-- ![GIF Animado](https://github.com/vpsilvaa/vpsilvaa/raw/main/fxvT.gif) -->
 
 <br>
 <div align="center" >
@@ -24,11 +24,28 @@ Além disso, estou desenvolvendo soluções integradas utilizando APIs para faci
   />
   <img src="https://github-readme-stats.vercel.app/api?username=vpsilvaa&show_icons=true" />
 </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vpsilvaa&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vpsilvaa&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpsilvaa&layout=compact" />
+  </picture>
 </div>
+
 <br>
+
+<br>
+
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🤖🧠🇦🇮👾+🤖🧠🇦🇮👾+🤖🧠🇦🇮;" />
 </h1>
+
 
 ![Snake animation](https://github.com/vpsilvaa/vpsilvaa/blob/output/github-contribution-grid-snake.svg)
 
