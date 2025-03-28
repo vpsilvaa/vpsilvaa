@@ -39,7 +39,7 @@ My goal is to optimize processes, improve model efficiency and create intelligen
 ## GitHub Stats ⚡
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vpsilvaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vpsilvaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&hide_rank=false&hide_border=true&locale=en&token=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" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpsilvaa&layout=compact&theme=dark" />
 </div>
 <div align="center" >
