@@ -45,7 +45,7 @@ My goal is to optimize processes, improve model efficiency and create intelligen
 <div align="center" >
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vpsilvaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=vpsilvaa&show_icons=true&theme=dark&include_all_commits=true&count_private=false"
     media="(prefers-color-scheme: dark)"
   />
   <source
