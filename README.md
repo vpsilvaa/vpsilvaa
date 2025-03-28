@@ -48,7 +48,7 @@ My goal is to optimize processes, improve model efficiency and create intelligen
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vpsilvaa&show_icons=true" />
-</picture>
+  </picture>
 
   <picture>
     <center>
